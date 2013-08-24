@@ -10,6 +10,7 @@ bin/
 gen/
 res/values/dropbox.xml
 proguard.cfg
+project.properties
 
 
 # IntelliJ Idea/Android Studio files
